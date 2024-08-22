@@ -1,0 +1,1 @@
+console.log('Second day, learning how to use Git and working with its three stages')
