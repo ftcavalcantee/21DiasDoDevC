@@ -1,6 +1,6 @@
 
 
-let name = "fernando Cavalacante"
+let name = "fernando cavalcante"
 console.log(name);
 name = 'fernando gago'
 console.log(name)
